@@ -1,0 +1,6 @@
+name "users"
+version "0.1.0"
+description "Chef recipe for ubuntu/debian for managing user. Part of rails-stack"
+maintainer "Oleg Bovykin"
+maintainer_email "oleg.bovykin@gmail.com"
+depends "sudo"
